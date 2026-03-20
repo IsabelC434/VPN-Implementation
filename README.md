@@ -1,3 +1,4 @@
+<p align="center"> <img width="600" height="600" alt="VPN pic" src="https://github.com/user-attachments/assets/b357da20-d54e-44be-9107-78181f20cf54" />
 
 
 # Secure Remote Access Implementation Using Client to Site VPN
